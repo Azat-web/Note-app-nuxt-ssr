@@ -1,0 +1,27 @@
+module.exports = {
+  auth: {
+    the_notes_app: 'Приложение для заметок',
+    write_notes_every_day: 'Заметки на каждый день',
+    password: 'Пароль',
+    email: 'Эл. почта',
+    sign_in: 'Войти',
+    click_on_the_link_to_get_your_login_details:'Кликните на ссылку, чтобы получить данные для входа',
+    receive: 'Ссылка',
+  },
+  main: {
+    selectLang: "Русский",
+    language: 'Язык',
+    add_note: 'Добавить заметку',
+    add: 'Добавить',
+    delete: 'Удалить',
+    search_by_name: 'Поиск по названию',
+    name: 'Название',
+    description: 'Описание',
+    this_is_a_required_field: 'Это обязательное поле!',
+    successfully: 'Успешно',
+    error: 'Ошибка',
+    note_added: 'Заметка добавлена',
+    note_deleted: 'Заметка удалена',
+    email_or_password_invalid: 'Пароль или электронная почта неверны',
+  },
+}
